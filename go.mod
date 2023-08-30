@@ -64,7 +64,7 @@ require (
 	google.golang.org/api v0.39.0
 	google.golang.org/grpc v1.34.0
 	gopkg.in/yaml.v2 v2.4.0
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.0
 	sigs.k8s.io/yaml v1.2.0
 )
 
