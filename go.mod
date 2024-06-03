@@ -8,7 +8,7 @@ require (
 	github.com/alicebob/miniredis/v2 v2.30.4
 	github.com/armon/go-metrics v0.4.1
 	github.com/aws/aws-sdk-go v1.44.327
-	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b
+	github.com/bradfitz/gomemcache v0.0.0-20230905024940-24af94b03874
 	github.com/cespare/xxhash v1.1.0
 	github.com/cortexproject/promqlsmith v0.0.0-20230502194647-ed3e43bb7a52
 	github.com/dustin/go-humanize v1.0.1
